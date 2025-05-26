@@ -1,4 +1,4 @@
-## Hi everyone, my name is Alejandra
+## Hi everyone!
 
 I’m a chemical engineer who made a 180° career shift to dive into the fascinating world of data, becoming a data analyst. 
 
