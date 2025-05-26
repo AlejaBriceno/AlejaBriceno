@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi everyone, my name is Alejandra
 
-<!--
-**AlejaBriceno/AlejaBriceno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a chemical engineer who made a 180° career shift to dive into the fascinating world of data, becoming a data analyst. 
 
 🎓 Background in Chemical Engineering with strong analytical and problem-solving skills  
 📈 Currently learning Python, SQL, Power BI, and applied statistics  
