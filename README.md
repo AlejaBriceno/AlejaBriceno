@@ -48,3 +48,5 @@ I'm a **Chemical Engineer turned Data Analyst**, passionate about extracting val
 I’m always open to learning, collaborating, and working on exciting data projects.
 
 📫 Reach me on [LinkedIn](www.linkedin.com/in/alejandrabriceno-dataanalyst/) or check out my [portfolio](https://github.com/AlejaBriceno).
+📧 E-mail: alejabriceno96@hotmail.com
+📞 Phone: = +57 3012998949
