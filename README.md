@@ -16,10 +16,10 @@ I'm a **Chemical Engineer turned Data Analyst**, passionate about extracting val
 
 ## 📌 About Me
 
-- 🌍 Based in Colombia 🇨🇴
+- 🌍 Based in Bogotá, Colombia 🇨🇴
 - 🎓 Background in **Chemical Engineering** with strong analytical and problem-solving skills
 - 📊 Focused on **data visualization**, **process optimization**, and **data-driven decision making**
-- 🛠️ Tools: Python, SQL, Excel, Tableau, Power BI
+- 🛠️ Tools: Python, SQL, Excel, Tableau, Power BI, SAP
 - 🧪 Experienced in cleaning, transforming and analyzing large datasets
 - 💡 Passionate about sustainability, continuous learning, and impactful data storytelling
 
